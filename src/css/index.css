@@ -1,0 +1,7 @@
+@import url('color.css');
+
+.dPaginaBase {
+
+    background-color: var(--color-0-back) ;
+
+}
