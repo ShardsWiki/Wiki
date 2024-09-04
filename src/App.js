@@ -2,8 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <div style={{backgroundColor:'#476382', height:'100px', color:'#ffffff', textAlign:'center'}}>
+    <div className="App" style={{backgroundColor:'#476382', color:'#ffffff', textAlign:'center'}}>
+      <div className="container py-2" >
         <h1>WIP PAGE</h1>
         <h1>POKEMON SHARDS</h1>
       </div>
