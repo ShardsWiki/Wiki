@@ -1,0 +1,6 @@
+@import url('color.css');
+
+.foot {
+    background-color: var(--color-2-foot);
+    color: black;
+}

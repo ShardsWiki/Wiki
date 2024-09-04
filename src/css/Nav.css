@@ -1,0 +1,5 @@
+@import url('color.css');
+
+nav {
+    background-color: var(--color-1-nav);
+}
