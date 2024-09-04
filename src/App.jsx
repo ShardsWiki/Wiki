@@ -1,12 +1,16 @@
 import './css/App.css';
 import './css/color.css';
+import { BrowserRouter } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <div className="container py-2" >
-        
-      </div>
+
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Inicio />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
