@@ -4,3 +4,15 @@
     background-color: white;
     height: 100%;
 }
+
+#photoCarousel{
+    height: 500px;
+}
+
+#photoCarousel .fotos div{
+    height: 500px;
+}
+
+#photoCarousel img{
+    vertical-align: middle;
+}
