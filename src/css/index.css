@@ -2,6 +2,7 @@
 
 .dPaginaBase {
 
-    background-color: var(--color-0-back) ;
+    background-color: var(--color-0-back);
+    height: 100vh;
 
 }

@@ -1,9 +1,9 @@
 import './css/App.css';
-import './color.css';
+import './css/color.css';
 
 function App() {
   return (
-    <div className="App" style={{backgroundColor:'#476382', color:'#ffffff', textAlign:'center'}}>
+    <div className="App">
       <div className="container py-2" >
         
       </div>
