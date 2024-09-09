@@ -12,13 +12,13 @@ export default function Inicio() {
                 </ol>
                 <div className="carousel-inner rounded fotos">
                     <div className="carousel-item active">
-                        <img src="https://pbs.twimg.com/media/GQ3hEatXgAAzbJz?format=png&name=large" className="d-block w-100" alt="1"/>
+                        <img src="img/foto1.png" className="d-block w-100" alt="1"/>
                     </div>
                     <div className="carousel-item">
-                        <img src="https://pbs.twimg.com/media/GQ3h8oIW4AATtow?format=png&name=large" className="d-block w-100" alt="2"/>
+                        <img src="img/foto2.png" className="d-block w-100" alt="2"/>
                     </div>
                     <div className="carousel-item">
-                        <img src="https://pbs.twimg.com/media/GVDSNolXYAAc0i3?format=jpg&name=large" className="d-block w-100" alt="3"/>
+                        <img src="img/foto3.jpeg" className="d-block w-100" alt="3"/>
                     </div>
                 </div>
                 <a className="carousel-control-prev" href="#photoCarousel" role="button" data-bs-slide="prev">
